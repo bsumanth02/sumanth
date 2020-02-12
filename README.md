@@ -1,4 +1,4 @@
 # sumanth
 Hello
 Welcome to the world
-![download.jpg][link-to-image]
+![image][C:\Users\bsuma\sumanth\download.jpg]
